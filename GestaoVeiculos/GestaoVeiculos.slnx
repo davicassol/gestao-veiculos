@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../src/GestaoVeiculos.Business/GestaoVeiculos.Business.csproj" />
+  <Project Path="../src/GestaoVeiculos.Data/GestaoVeiculos.Data.csproj" />
+  <Project Path="../src/GestaoVeiculos.Models/GestaoVeiculos.Models.csproj" />
+  <Project Path="../src/GestaoVeiculos.Tests/GestaoVeiculos.Tests.csproj" />
+  <Project Path="../src/GestaoVeiculos.UI/GestaoVeiculos.UI.csproj" />
+</Solution>
